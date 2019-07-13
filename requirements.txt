@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
+ipywidgets
+clustergrammer2
+fileupload
