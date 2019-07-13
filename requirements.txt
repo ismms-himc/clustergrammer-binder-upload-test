@@ -4,6 +4,5 @@ scipy
 scikit-learn
 ipywidgets
 clustergrammer2
-ipywidgets
-traitlets
+jupyter_contrib_nbextensions
 fileupload
