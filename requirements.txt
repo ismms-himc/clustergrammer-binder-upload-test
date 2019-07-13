@@ -1,3 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
 ipywidgets
-jupyter_contrib_nbextensions
-fileupload
+matplotlib
+clustergrammer2
